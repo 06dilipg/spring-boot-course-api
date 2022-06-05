@@ -1,2 +1,2 @@
-String Name;
-Name="Dilip";
+String User_Name;
+User_Name="Dilip";
